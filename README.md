@@ -1,3 +1,3 @@
 # Test Repo
 
-nd GitHub tools.
+This repo is for testing Git and GitHub tools.
